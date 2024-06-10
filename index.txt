@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 <html lang="en" id="policies">
 <head>
   <meta charset="utf-8">
